@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+regression_daily.csv
+regression_weekly.csv
+market_data_*.csv
+market_premium_analysis_*.png
